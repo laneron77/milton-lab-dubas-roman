@@ -1,0 +1,18 @@
+.card {
+    display:block;
+    width: 1000px;
+    margin-left: 500px;
+   overflow: hidden;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   line-height: 15px;
+}
+
+.card-text {
+    font-size: 15px;
+}
+
+.card-text2 {
+    font-size: 11px;
+}
+

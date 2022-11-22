@@ -1,0 +1,58 @@
+.sidebar-wrapper {
+    position: fixed;
+    width: 400px;
+    height: 100%;
+    padding: 50px;
+    border-right: 1px solid #e2e2e2;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+hr {
+    width: 90px;
+    height: 0px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #c7c7c7;
+}
+
+.description {
+    color: #aaa;
+    line-height: 145%;
+}
+
+.name {
+    display: block;
+    font-size: 36px;
+    line-height: 100%;
+    text-decoration: none;
+    color: #333;
+}
+
+.link {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
+    -webkit-transition: color 200ms ease;
+    transition: color 200ms ease;
+    font-family: Lato, sans-serif;
+    color: #aaa;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.icons {
+    width: 40px;
+    opacity: 0.36;
+    display: flex;
+}
+
+.icons1 {
+    margin-right: 10px;
+}
